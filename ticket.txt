@@ -1,0 +1,70 @@
+Pedido: p001
+Cliente: juan
+Producto: manza
+Precio: 10.0
+-------------------
+Pedido: p001
+Cliente: juan
+Producto: manza
+Precio: 10.0
+-------------------
+Pedido: p002
+Cliente: juana
+Producto: pera
+Precio: 20.0
+-------------------
+Pedido: p002
+Cliente: juana
+Producto: pera
+Precio: 20.0
+-------------------
+Pedido: p003
+Cliente: pedro
+Producto: peras
+Precio: 15.0
+-------------------
+Pedido: p003
+Cliente: pedro
+Producto: peras
+Precio: 15.0
+-------------------
+Pedido: p003
+Cliente: pedro
+Producto: fresas
+Precio: 25.0
+-------------------
+Pedido: p003
+Cliente: pedro
+Producto: fresas
+Precio: 25.0
+-------------------
+Pedido: p004
+Cliente: pedro
+Producto: fresas
+Precio: 40.0
+-------------------
+Pedido: p004
+Cliente: pedro
+Producto: fresas
+Precio: 40.0
+-------------------
+Pedido: p006
+Cliente: Carlos
+Producto: huevo
+Precio: 55.0
+-------------------
+Pedido: p006
+Cliente: Carlos
+Producto: huevo
+Precio: 55.0
+-------------------
+Pedido: p005
+Cliente: carla
+Producto: fresas
+Precio: 65.0
+-------------------
+Pedido: p005
+Cliente: carla
+Producto: fresas
+Precio: 65.0
+-------------------
